@@ -1,6 +1,6 @@
 # *Almost* recreating The Great Discontent layout with flexbox 
 
-## Key Findings:
+**Key Findings:**
 - Flexbox has its limitations like any other CSS layout technique.
 - Making background images scale well requires some patience and math. 
 - Controlling font size based on a container’s width takes a hint of JS.
@@ -14,5 +14,5 @@ I’m a big fan of TGD so I wanted to see if I could replicate the  homepage des
 
 The nav had one point of reassembly when the viewport reaches `min-width: 800px`.
 
-
+![Alt text](TGD-tribute/screenshots/01-nav-raw-html.png "Navigation raw HTML")
 
