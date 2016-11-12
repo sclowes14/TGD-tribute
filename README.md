@@ -14,5 +14,5 @@ I’m a big fan of TGD so I wanted to see if I could replicate the  homepage des
 
 The nav had one point of reassembly when the viewport reaches `min-width: 800px`.
 
-![Alt text](TGD-tribute/screenshots/01-nav-raw-html.png "Navigation raw HTML")
+![Alt text](https://github.com/sclowes14/TGD-tribute/blob/master/screenshots/01-nav-raw-html.png "Navigation raw HTML")
 
